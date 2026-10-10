@@ -46,6 +46,9 @@ Dataset columns include gender, race/ethnicity, parental level of education, lun
 5. Deploy the app.
 
 Keep `StudentsPerformance.csv` in the same folder as `app.py`.
+``#DASHBOARD LINK:
+https://student-academic-performance-dashboard-k2zfcptdtggl67jm7hdvqr.streamlit.app/
+
 
 ## Repository structure
 
@@ -55,8 +58,7 @@ student-academic-performance-dashboard/
 ├── StudentsPerformance.csv
 ├── requirements.txt
 └── README.md
-``#DASHBOARD LINK:
-https://student-academic-performance-dashboard-k2zfcptdtggl67jm7hdvqr.streamlit.app/
+'''
 
 ## Notes
 
