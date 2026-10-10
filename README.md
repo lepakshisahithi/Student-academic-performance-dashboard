@@ -55,7 +55,8 @@ student-academic-performance-dashboard/
 ├── StudentsPerformance.csv
 ├── requirements.txt
 └── README.md
-```
+``#DASHBOARD LINK:
+https://student-academic-performance-dashboard-k2zfcptdtggl67jm7hdvqr.streamlit.app/
 
 ## Notes
 
